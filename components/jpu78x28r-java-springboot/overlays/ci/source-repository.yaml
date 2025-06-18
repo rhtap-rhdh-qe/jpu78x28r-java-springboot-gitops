@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jpu78x28r-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jpu78x28r-java-springboot
